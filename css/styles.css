@@ -1,0 +1,54 @@
+body {
+  background-color:  olive;
+  color: azure;
+
+}
+
+hr {
+  height: 3px;
+  border-style: none;
+  background-color: khaki;
+  width: 100%;
+}
+
+img {
+  border-style: double;
+  border-color: khaki;
+}
+
+h1 {
+
+  font-family: cursive;
+  font-variant: small-caps;
+
+}
+
+h2 {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+h4 {
+  font-family: cursive;
+}
+
+p {
+  font-family: courier;
+}
+
+ol {
+  font-family: courier;
+}
+
+ul {
+  font-family: courier;
+}
+
+table {
+  border-spacing: 30px;
+  padding: 5px;
+  text-align: left;
+}
