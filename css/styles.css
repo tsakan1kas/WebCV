@@ -1,3 +1,6 @@
+
+/* tag selectors */
+
 body {
   background-color:  olive;
   color: azure;
@@ -36,14 +39,6 @@ h4 {
 }
 
 p {
-  font-family: courier;
-}
-
-ol {
-  font-family: courier;
-}
-
-ul {
   font-family: courier;
 }
 
